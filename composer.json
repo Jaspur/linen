@@ -13,7 +13,7 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "illuminate/support": "^^11|^12|^13|dev-master",
+    "illuminate/support": "^11|^12|^13|dev-master",
     "ext-json": "*",
     "openspout/openspout": "^4.24"
   },
